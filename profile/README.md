@@ -1,4 +1,4 @@
-# CES 💙
+# HSU-CES 💙
 
 <img width="1618" height="366" alt="Banner" src="https://github.com/user-attachments/assets/0eb82513-33ec-4cf4-bd3f-91d474ee853b" />
 
