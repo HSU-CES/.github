@@ -1,6 +1,7 @@
 # Computer Engineering Scientific Association
 
-<img width="1618" height="318" alt="Banner2" src="https://github.com/user-attachments/assets/300e387c-9619-4fcd-a28e-b70dc0e6a53e" />
+<img width="1618" height="366" alt="Banner" src="https://github.com/user-attachments/assets/0eb82513-33ec-4cf4-bd3f-91d474ee853b" />
+
 
 ## Overview
 Welcome to the official GitHub organization of the Computer Engineering Scientific Association at Hakim Sabzevari University.
