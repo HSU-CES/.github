@@ -1,6 +1,9 @@
 # Computer Engineering Scientific Association
-
 **Hakim Sabzevari University (HSU)**
+
+
+<img width="1618" height="366" alt="Banner" src="https://github.com/user-attachments/assets/bb0cb9b9-14da-4c04-8bcc-f0a1c3bc2390" />
+
 
 Welcome to the official GitHub organization of the Computer Engineering Scientific Association at Hakim Sabzevari University.
 
